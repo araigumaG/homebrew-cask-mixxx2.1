@@ -1,6 +1,6 @@
 # homebrew-cask-versions
 
-Here you'll find alternate versions of Casks for the [Homebrew Cask](https://github.com/Homebrew/homebrew-cask)
+Here you'll find an alternate version of (Mixxx) Cask for the [Homebrew Cask](https://github.com/Homebrew/homebrew-cask)
 project.
 
 # Usage
@@ -8,15 +8,16 @@ project.
 After you install Homebrew, run the following command:
 
 ```sh
-$ brew tap homebrew/cask-versions
+$ brew tap araigumag/cask-mixxx2.1
 ```
 
 You can now install alternate versions of Casks.
 
 ```sh
-$ brew cask install iterm2-beta
+$ brew cask install mixxx2.1
 ```
 
+<!--
 ## Acceptable Casks
 
 `homebrew/cask-versions` is not intended to be used for all and any old versions you personally require. Casks submitted here should be expected to be used by a reasonable number of people and supported by contributors long-term.
@@ -31,6 +32,7 @@ For this repo, rules are (following our [nomenclature](https://github.com/Homebr
 + Refuse legacy versions of gratis or open-source software, unless there is a clear demonstrable need for them.
 + Legacy versions of gratis or open-source software that were accepted should be removed after one year.
 + Include casks that do not fit the rules, but need to exist somewhere since they are required by other casks.
+-->
 
 ## License
 Code is under the [BSD 2 Clause (NetBSD) license](https://github.com/Homebrew/homebrew-cask-versions/blob/master/LICENSE)
