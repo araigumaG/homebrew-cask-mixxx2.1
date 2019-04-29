@@ -1,4 +1,4 @@
-# homebrew-cask-versions
+# homebrew-cask-mixxx2.1
 
 Here you'll find an alternate version of (Mixxx) Cask for the [Homebrew Cask](https://github.com/Homebrew/homebrew-cask)
 project.
